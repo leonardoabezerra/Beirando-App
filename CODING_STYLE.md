@@ -16,4 +16,15 @@
 - **Variáveis e Funções:** `camelCase`
 - **Classes, Métodos e Componentes React:** `PascalCase`
 - **Constantes:** `UPPER_SNAKE_CASE`
-- **Pastas:** `snake_case`
+- **Pastas e arquivos:** `snake_case`
+
+## 4. Nomenclatura de branches
+- `feature/nome-da-branch`: Branch para desenvolver novas funcionalidades.
+- `experiment/nome-da-branch`: Branch para fazer testar funcionalidades ou soluções que não necessáriamente irão para a dev.
+- `bugfix/nome-da-branch`: Branch para correção de erros.
+
+## 5. Nomenclatura de commits
+Não economizem commits, dessa forma é sempre possível voltar para um estado passado do código, como um checkpoint.
+- `feat: descrição do commit`: Padrão para adição de novas funcionalidades.
+- `fix: descrição do commit`: Padrão para correção de problemas.
+
